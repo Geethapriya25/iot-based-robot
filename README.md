@@ -105,8 +105,4 @@ Example SMS Alert:
 
 ALERT: Gas=210ppm Temp=36°C
 Location: 12.9716 N, 77.5946 E
-Status: Human detected
-
-
-
-ected. Immediate attention required.
+Status: Human detected.
